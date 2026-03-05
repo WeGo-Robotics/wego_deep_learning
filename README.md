@@ -128,6 +128,6 @@
 
 ---
 
-## 추가 자료
+## 참고자료
 Limo Wiki
 https://goofy-pleasure-a84.notion.site/Limo-Wiki-a6aa65b627cb40019a82d469dc5ae69d
