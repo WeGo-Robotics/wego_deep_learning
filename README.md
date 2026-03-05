@@ -125,3 +125,9 @@
 | `yellow_light_size_threshold` | `2700.0` | 노란불 인식 기준 면적 |
 | `green_light_size_threshold` | `7000.0` | 초록불 인식 기준 면적 |
 | `pedestrian_size_threshold` | `4000.0` | 보행자 표지판 인식 기준 면적|
+
+---
+
+## 참고 자료
+Limo Wiki
+https://goofy-pleasure-a84.notion.site/Limo-Wiki-a6aa65b627cb40019a82d469dc5ae69d
