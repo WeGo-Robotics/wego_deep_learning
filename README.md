@@ -130,4 +130,9 @@
 
 ## 참고자료
 Limo Wiki
+
 https://goofy-pleasure-a84.notion.site/Limo-Wiki-a6aa65b627cb40019a82d469dc5ae69d
+
+딥 러닝 패키지 (v1.0) 매뉴얼
+
+[[WeGo]딥_러닝_매뉴얼(v1.0).pdf](https://github.com/user-attachments/files/25759286/WeGo._._.v1.0.pdf)
