@@ -1,0 +1,39 @@
+dl_control_node:
+  ros__parameters:
+    max_steering: 1.5
+
+    linear_x_base_speed: 0.3
+    max_speed: 0.5
+    min_speed: 0.05
+
+    control_1_gain: 0.012 # 0.0065
+    control_2_gain: 0.015 # 0.007
+
+    prev_gain: 0.5
+    current_gain: 0.5
+    threshold_max: 1.0
+    threshold_min: 0.8
+    deceleration_ratio: 0.45
+
+    speed_up_factor: 1.2
+    slow_down_factor: 0.7
+    turn_right_factor: 2.7 # 1.2
+    yellow_light_factor: 0.5
+    green_light_factor: 1.0
+
+    slow_down_duration_sec: 1.0
+    speed_up_duration_sec: 1.0
+    turn_right_duration_sec: 1.0 # 1.5
+    red_light_duration_sec: 1.0
+    yellow_light_duration_sec: 1.0
+    green_light_duration_sec: 1.0
+    pedestrian_duration_sec: 3.0
+    pedestrian_pass_by_duration_sec: 6.0
+
+    slow_down_size_threshold: 2700.0
+    speed_up_size_threshold: 2700.0
+    turn_right_size_threshold: 2700.0 # 2700.0
+    red_light_size_threshold: 7000.0
+    yellow_light_size_threshold: 2700.0
+    green_light_size_threshold: 7000.0
+    pedestrian_size_threshold: 4000.0
