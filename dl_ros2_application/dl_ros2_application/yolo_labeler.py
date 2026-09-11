@@ -203,7 +203,7 @@ class YOLOLabeler:
                     cv2.destroyAllWindows()
                     return
                 elif k == KEY_SAVE:
-                    for d in (self.train_dir):
+                    for d in [self.train_dir]:
                         self._save_yolo_format(name, d, self.rectangles, self.original.shape)
                     self.image_history[name] = list(self.rectangles)
                     print("Saved", name)
